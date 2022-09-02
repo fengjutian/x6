@@ -1,4 +1,4 @@
-import * as React from 'React';
+import React from 'React';
 import { Button } from 'antd'
 import { Graph } from '@antv/x6'
 import './index.css'
